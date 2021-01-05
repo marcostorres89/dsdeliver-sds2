@@ -9,7 +9,7 @@ A aplicação consiste em a criação de um site para solicitação de itens, no
 
 ## Layout mobile
 ![Mobile 1](https://github.com/marcostorres89/assents/blob/main/projects/dedeliver/Tela%20Home%20Page%20Mobile.PNG)
-![Mobile 2](https://github.com/marcostorres89/assents/blob/main/projects/dedeliver/Tela%20Confirma%C3%A7%C3%A3o%20Mobile.PNG)
+![Mobile 2](https://github.com/marcostorres89/assents/blob/main/projects/dedeliver/Tela%20Pedidos%20Mobile.PNG)
 ![Mobile 3](https://github.com/marcostorres89/assents/blob/main/projects/dedeliver/Tela%20Confirma%C3%A7%C3%A3o%20Mobile.PNG)
 
 ## Layout web
