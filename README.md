@@ -32,18 +32,18 @@ A aplicação consiste em a criação de um site para solicitação de itens, no
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-#API DsDeliver
-
-## All Products
+##API DsDeliver
+```bash
+# All Products
 curl --location --request GET 'https://ds-deliver.herokuapp.com/products'
 
-## All Orders
+# All Orders
 curl --location --request GET 'https://ds-deliver.herokuapp.com/orders'
 
-## Set Delivered
+# Set Delivered
 curl --location --request PUT 'https://ds-deliver.herokuapp.com/orders/3/delivered'
 
-## New order
+# New order
 curl --location --request POST 'https://ds-deliver.herokuapp.com/orders' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -59,3 +59,4 @@ curl --location --request POST 'https://ds-deliver.herokuapp.com/orders' \
         }
     ]         
 }'
+```
