@@ -1,4 +1,5 @@
 # Ds Deliver 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marcostorres89/dsdeliver-sds2/blob/main/LICENSE)
 
 # Sobre o projeto
 
